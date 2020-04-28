@@ -107,4 +107,4 @@ dist
 out
 
 # JSON Creds
-data/kushsheets-bb6acdbdc44d.json
+data/kushsheets-*.json
